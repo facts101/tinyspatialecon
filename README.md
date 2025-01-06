@@ -10,18 +10,18 @@ Also, you can create an account on www.wolframcloud.com, make two files named ti
 
 # How it works
 1. Generate (assume m << n)
-	1.a. m vendors
-	1.b. n customers
+	1.1. m vendors
+	1.2. n customers
 2. Decide on vendor relocation scheeme (immediate vs stepwise*)
 3. Cycle over customers
-	3.a. Decide if customer will shop or not
-    		3.a.i. Calculate distance to each vendor
-    		3.a.ii. Decide if customer visits closest vendor or not
-   		3.a.iii. Update selected vendor's inventory/clientele
+	3.1. Decide if customer will shop or not
+    		3.1.1. Calculate distance to each vendor
+    		3.1.2. Decide if customer visits closest vendor or not
+   		3.1.3. Update selected vendor's inventory/clientele
 4. Cycle over vendors
-	4.a. Decide if vendor relocates (revenues vs costs ?)
-  		4.a.i. Decide where vendor relocates (near valuable customers ?)
-  		4.a.ii. Relocate 
+	4.1. Decide if vendor relocates (revenues vs costs ?)
+  		4.1.1. Decide where vendor relocates (near valuable customers ?)
+  		4.1.2. Relocate 
    
 # What is this?
 I developed this code and accompanying materials over the course of two days, as a scetch for a response to a post from account @kaushikcbasu on X on Jan 5, 2025.
