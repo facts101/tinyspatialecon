@@ -19,8 +19,8 @@ Also, you can create an account on www.wolframcloud.com, make two files named ti
 - Update selected vendor's inventory/clientele
 4. Cycle over vendors
 - Decide if vendor relocates (revenues vs costs ?)
- -- Decide where vendor relocates (near valuable customers ?)
- -- Relocate 
+- Decide where vendor relocates (near valuable customers ?)
+- Relocate 
    
 # What is this?
 I developed this code and accompanying materials over the course of two days, as a scetch for a response to a post from account @kaushikcbasu on X on Jan 5, 2025.
