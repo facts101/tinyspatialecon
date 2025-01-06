@@ -10,9 +10,8 @@ Also, you can create an account on www.wolframcloud.com, make two files named ti
 
 # How it works
 1. Generate (assume m << n)
-1.1. m vendors
-1.2. n customers
-3. Decide on vendor relocation scheeme (immediate vs stepwise*)
+   m vendors and n customers
+2. Decide on vendor relocation scheeme (immediate vs stepwise*)
 4. Cycle over customers
 3.1. Decide if customer will shop or not
 3.1.1. Calculate distance to each vendor
